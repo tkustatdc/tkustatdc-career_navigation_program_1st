@@ -3134,7 +3134,7 @@ input::-moz-focus-inner {
 
 .s-header__logo img {
     width: 68px;
-    height: 10px;
+    height: 15px;
     margin-bottom: 0;
 }
 
@@ -3150,13 +3150,13 @@ input::-moz-focus-inner {
     list-style: none;
     font-family: var(--font-2);
     font-weight: 500;
-    font-size: 1rem;
+    font-size: 1.5rem;
     line-height: 6rem;
     padding-top: 1.4rem;
     padding-bottom: 1.4rem;
     margin: 0;
     text-transform: uppercase;
-    letter-spacing: .4em;
+    letter-spacing: .2em;
 }
 
 .s-header__nav a {
@@ -3269,7 +3269,7 @@ input::-moz-focus-inner {
 .s-header__content .btn {
     --btn-height: calc(var(--vspace-btn) - 1.2rem);
 
-    font-size: 1rem;
+    font-size: 1.2rem;
     padding: 0 2.8rem;
     margin: 0;
     -webkit-transform: translateY(-50%);
